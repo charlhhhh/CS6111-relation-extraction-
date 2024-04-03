@@ -7,12 +7,7 @@ Extract SQL relation from plain text using SpanBERT and Generative AI models
 # How to Run
 First, open our proj2 directory and  follow the instruction on the website: https://www.cs.columbia.edu/~gravano/cs6111/Proj2/ to install the required packages
 
-**After implementing this step:**
-*"We have implemented the scripts for downloading and running the pre-trained **SpanBERT** classifier for the purpose of this project:*  
-*`git clone https://github.com/larakaracasu/SpanBERT*   
-*`cd SpanBERT*   
-*`pip3 install -r requirements.txt*   
-*`bash download_finetuned.sh`"*
+**After installing all the packages:**
 Create `main.py` under the SpanBERT directory, and copy the code in `main.py` under proj2 directory to main.py under the SpanBERT directory.
 Moreover, modify `spacy_help_functions.py` under SpanBERT directory using our own written one (which is given under proj2 directory also) 
 
